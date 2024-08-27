@@ -18,13 +18,13 @@ CardGame is a collection of card game implementations, designed to provide a fun
    ```bash
    cd CardGame
    ```
-3. **Install** dependencies (if applicable):
+3. **Install** dependencies:
    ```bash
-   [flutter pub get]
+   flutter pub get
    ```
 4. **Run** the application:
    ```bash
-   [flutter run]
+   flutter run
    ```
 
 ## Usage
