@@ -5,7 +5,7 @@
     <h1 align="center">CARDGAME</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
+    <em><code>CardGame is a simple card game that allows two players to play against each other. The objective of the game is to be the first player to get rid of all of their cards. The game is playe
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/hostuserhost/CardGame?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -38,13 +38,13 @@
 
 ##  Overview
 
-<code>► INSERT-TEXT-HERE</code>
+<code>The CardGame is a simple card game that allows two players to play against each other. The objective of the game is to be the first player to get rid of all of their cards. The game is designed to be fun and challenging, with a variety of card
 
 ---
 
 ##  Features
 
-<code>► INSERT-TEXT-HERE</code>
+<code>Open source, cross-platform, and easy to use. The CardGame is a simple card game that allows two players to play against each other. The objective of the game is to be the first player to get rid of all of their cards. The game is designed to be fun and challenging, with a variety of card
 
 ---
 
@@ -166,14 +166,6 @@
 
 ---
 
-##  Project Roadmap
-
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
-
----
-
 ##  Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
@@ -219,15 +211,9 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ---
 
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
 ##  Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- I would like to thank the developers of the [CardGame](https://github.com/hostuserhost/CardGame) project for their contributions and support.
 
 [**Return**](#-overview)
 
