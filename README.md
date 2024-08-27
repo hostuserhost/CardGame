@@ -20,11 +20,11 @@ CardGame is a collection of card game implementations, designed to provide a fun
    ```
 3. **Install** dependencies (if applicable):
    ```bash
-   [insert command to install dependencies, e.g., npm install or pip install -r requirements.txt]
+   [flutter pub get]
    ```
 4. **Run** the application:
    ```bash
-   [insert command to run the application, e.g., npm start or python main.py]
+   [flutter run]
    ```
 
 ## Usage
